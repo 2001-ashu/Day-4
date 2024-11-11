@@ -1,0 +1,3 @@
+check first pass
+-git fetch origin
+-git pull origin main
